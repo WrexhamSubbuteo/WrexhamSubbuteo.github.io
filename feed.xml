@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wrexham Subbuteo</title>
+    <description>Information about Subbuteo Table Football in North Wales 
+</description>
+    <link>https://WrexhamSubbuteo.github.io/</link>
+    <atom:link href="https://WrexhamSubbuteo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Mar 2016 21:49:31 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2016 21:49:31 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Website Launched</title>
+        <description>&lt;h1 id=&quot;a-fresh-start&quot;&gt;A fresh start&lt;/h1&gt;
+
+&lt;p&gt;Welcome to the brand new website devoteed to people who play the famous
+tabletop football game - Subbuteo - in North Wales! If that doesn’t get
+your pulse racing, I don’t know what will!&lt;/p&gt;
+
+&lt;p&gt;Anyway, this has been a plan for a while, but only just materialised.
+Subbuteo has long been a staple in North East Wales, with Flintshire once
+boasting the largest Subbuteo club in the UK, along with several
+larger-than-life characters.&lt;/p&gt;
+
+&lt;p&gt;“The new era” will begin with the &lt;a href=&quot;/opencup2016/&quot;&gt;Wrexham Open Cup 2016&lt;/a&gt;
+which will hopefully become an annual event. Depending on the success of
+that venture, we might even expand to having a bit of a North Wales league!&lt;/p&gt;
+
+&lt;p&gt;Anyway, keep checking this exciting website for more news - or more likely,
+stumble upon this website and see news that hasn’t been updated for heaven
+knows how long!&lt;/p&gt;
+
+&lt;p&gt;There may also be the occasional article on here, mostly reproduced from the
+club’s contributions to new UK table football magazine ‘Grande Subbuteo’.
+Again, it’s quite a treat, I’m sure you’ll agree.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+        <link>https://WrexhamSubbuteo.github.io/2016/03/10/welcome.html</link>
+        <guid isPermaLink="true">https://WrexhamSubbuteo.github.io/2016/03/10/welcome.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
